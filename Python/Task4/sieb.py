@@ -3,7 +3,7 @@ Sieb des Eratosthenes
 """
 
 """
-This implementation works fine for low prime numbers. It will not return the correct result in cases like sieb(1000),
+This implementation works fine for low prime numbers. However, it will not return the correct result in cases like sieb(1000)
 but the task wants you to implement the function like below with only eliminating the multiples of 2,3,5 and 7.
 Visit https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes for more information about the correct implementation.
 """
