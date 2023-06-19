@@ -9,5 +9,5 @@ class Alter {
 	public static void main(String args[]) {
 		Alter alterBezeichnung = new Alter();
 		System.out.println(alterBezeichnung.gibBezeichnung(44));	
-  }
+  	}
 }
