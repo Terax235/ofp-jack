@@ -1,3 +1,5 @@
+package Uni;
+
 public class Uni {
     public static void main(String[] args) throws Exception {
         Angestellter[] personal = new Angestellter[3];

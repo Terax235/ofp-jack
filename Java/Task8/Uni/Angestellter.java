@@ -1,3 +1,5 @@
+package Uni;
+
 public class Angestellter {
     public double stdProMonat;
     public double geldProStunde;

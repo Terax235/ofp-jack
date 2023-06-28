@@ -1,4 +1,4 @@
-import java.io.*;
+package Java.Task8;
 
 public class Java_GGT {
 
@@ -14,9 +14,6 @@ public class Java_GGT {
 			n = r;
 		}
 		return m;
-		
-
-
 	}
 
 	public static void main(String[] args) {

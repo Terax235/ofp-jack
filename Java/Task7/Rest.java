@@ -12,11 +12,12 @@ public class Rest {
             case 7:
                 return "Der Rest ist eine einstellige Primzahl";
             default:
-                if ((i % j) % 2 != 0) return "Der Rest ist ungerade";
-                else return "Keine der Aussagen trifft zu";
+                if ((i % j) % 2 != 0)
+                    return "Der Rest ist ungerade";
+                else
+                    return "Keine der Aussagen trifft zu";
         }
     }
-
 
     public static void main(String[] args) {
         int i = Integer.parseInt(args[0]);
@@ -27,4 +28,3 @@ public class Rest {
 
     }
 }
-
